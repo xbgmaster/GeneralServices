@@ -1,0 +1,60 @@
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+*.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Publish profiles
+Properties/PublishProfiles/
+
+# Configuration files
+launchSettings.json
+serviceDependencies.json
+
+# Others
+*.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Logs and temp
+logs/
+*.log
+*.tmp
+
+# IDE metadata
+.idea/
+*.iml
+
+# Entity Framework
+Migrations/
+
+# Optional: ignore generated files from Copilot or AI tools
+CopilotIndices/
