@@ -7,6 +7,20 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAnyLocalhost", builder =>
+    {
+        builder.SetIsOriginAllowed(origin =>
+        {
+            // Permite cualquier localhost
+            return new Uri(origin).Host == "localhost";
+        })
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,8 +34,8 @@ var app = builder.Build();
     });
 //}
 
+app.UseCors("AllowAnyLocalhost");
 //app.UseHttpsRedirection();
-
 app.UseAuthorization();
 
 app.MapControllers();
