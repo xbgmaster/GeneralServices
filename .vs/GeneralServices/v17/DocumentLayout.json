@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\entities\\generalserviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\entities\\generalserviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\generalservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\generalservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|c:\\users\\aleja\\onedrive\\desktop\\projectfullstack\\backend\\generalservices\\generalservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D97F5-2419-4AD3-B3C4-EC43110F15D0}|GeneralServices\\GeneralServices.csproj|solutionrelative:generalservices\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +75,184 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GeneralServices\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:31:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Services\\UserServices.cs",
+              "RelativeToolTip": "GeneralServices\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:29:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "GeneralServices\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:27:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "GeneralServices\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:28:11.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GeneralServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GeneralServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T18:58:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\appsettings.json",
+              "RelativeDocumentMoniker": "GeneralServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\appsettings.json",
+              "RelativeToolTip": "GeneralServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T18:58:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GeneralServices\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:18:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralServiceUser.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Entities\\GeneralServiceUser.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Entities\\GeneralServiceUser.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Entities\\GeneralServiceUser.cs",
+              "RelativeToolTip": "GeneralServices\\Entities\\GeneralServiceUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:14:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "GeneralServices\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:29:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Program.cs",
               "RelativeDocumentMoniker": "GeneralServices\\Program.cs",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Program.cs",
               "RelativeToolTip": "GeneralServices\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T00:43:31.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "GeneralServices\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "GeneralServices\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T00:43:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\.gitignore",
+              "RelativeDocumentMoniker": "GeneralServices\\.gitignore",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\.gitignore",
+              "RelativeToolTip": "GeneralServices\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-03T18:58:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GeneralServices\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\WeatherForecast.cs",
+              "RelativeToolTip": "GeneralServices\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T00:43:27.615Z"
+              "WhenOpened": "2026-03-03T18:58:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneralServices.http",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\GeneralServices.http",
+              "RelativeDocumentMoniker": "GeneralServices\\GeneralServices.http",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Desktop\\ProjectFullStack\\Backend\\GeneralServices\\GeneralServices\\GeneralServices.http",
+              "RelativeToolTip": "GeneralServices\\GeneralServices.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-03T18:56:38.676Z",
+              "EditorCaption": ""
             }
           ]
         }
